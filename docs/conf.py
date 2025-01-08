@@ -12,6 +12,19 @@ extensions = [
     'sphinx.ext.viewcode',
 ]
 
+# Specify file suffixes
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',
+}
+
+# Optional: Add Markdown-specific configurations
+myst_enable_extensions = [
+    "deflist",  # Enable definition lists
+    "linkify",  # Automatically turn URLs into links
+    "colon_fence",  # Enable ::: for block elements
+]
+
 templates_path = ['_templates']
 
 html_theme = 'alabaster'  # Or 'sphinx_rtd_theme' for the RTD theme
