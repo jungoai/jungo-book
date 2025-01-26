@@ -45,4 +45,6 @@ See [emission] section for more details.
 
 Here is a diagram of a Subnet:
 
-![figure subnet](../assets/subnet.png)
+<center>
+  <img src="../assets/subnet.png" alt="figure subnet" width="70%">
+</center>

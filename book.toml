@@ -7,3 +7,5 @@ title = "JungoAI Book"
 
 [output.html]
 default-theme = "light"
+git-repository-url = "https://github.com/jungoai/jungo-book"
+git-repository-icon = "fa-github"

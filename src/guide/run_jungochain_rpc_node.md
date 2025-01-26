@@ -15,7 +15,6 @@ table th:nth-child(1), table td:nth-child(1) {
 }
 </style>
 
-<!-- System Requirements: -->
 
 | System Requirements |    |
 |:--------------|----------|
@@ -70,7 +69,8 @@ It will not expose RPC to external request by default, you need to pass `--rpc` 
   --rpc \
   --archive 
 ```
-```
+
+```bash
 # --name <NAME>           # (optional) show your node name in telemetry
 # --telemetry-url <ADDR>  # (optional) telemetry address
 # --rpc                   # (optional) expose rpc to external requests
@@ -98,7 +98,7 @@ docker logs ae61c5ea3863
 ```
 
 You should see a line like:
-```bash
+```
 🔍 Discovered new external address for our node: ...
 ```
 

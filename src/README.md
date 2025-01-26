@@ -14,10 +14,10 @@ and sufficient computational power can develop these solutions.
 The major drawback of centralized AIs is the presence of a single authority, which can lead to
 models trained on biased data, resulting in biased outcomes. Additionally, similar to the dominance
 of search engines over the past decades, only a few entities can possess the technology and reap
-the benefits. Platforms like Bittensor[6] attempt to leverage blockchain technology to incentivize
+the benefits. Platforms like [Bittensor](https://bittensor.com) attempt to leverage blockchain technology to incentivize
 experts, entities, and node operators to participate in developing AI solutions. However, these
-platforms function more like marketplaces and competitive AI solutions. At Jungo AI, our goal is to
-build a Federated AI[7] solution where network nodes collaborate to provide data and computation.
+platforms function more like marketplaces and competitive AI solutions. At JungoAI, our goal is to
+build a Federated AI solution where network nodes collaborate to provide data and computation.
 
 ## Federated Big Data
 
@@ -32,17 +32,19 @@ collecting and analyzing web data, and more.
 
 # Components:
 
-Jungo AI consisted of this components:
+JungoAI consisted of this components:
 
-- Jungochain: It is the blockchain of Jungo AI, utilize JUNGO token and serve Subnets.
+- Jungochain: It is the blockchain of JungoAI, utilize JUNGO token and serve Subnets.
 - Subnet: 
-    There are multiple subnetworks (Subnet) each running a Big Data or AI project that serve end-users. 
-    Subnet contained Worker nodes and Monitor nodes. 
-    - Worker node: Is actual node that run Big Data or AI service and serve end-user.
-    - Monitor node: monitor performance of Worker nodes and send result back to the Jungochain. 
-                    Then Jungochain distribute emission among Workers according to it.
+  There are multiple subnetworks (Subnet) each running a Big Data or AI project that serve end-users. 
+  Subnet contained Worker nodes and Monitor nodes. 
+  - Worker node: Is actual node that run Big Data or AI service and serve end-user.
+  - Monitor node: monitor performance of Worker nodes and send result back to the Jungochain. 
+                  Then Jungochain distribute emission among Workers according to it.
 
-![figure 1](assets/abcd.svg)
+<center>
+  <img src="assets/overview.png" alt="figure 1" width="60%">
+</center>
 
 # How it works
 
@@ -53,8 +55,8 @@ You can find out how emission will distribute [here]().
 Everyone can run a Subnet on Jungochain by staking a mount of JUNGO token, 
 set some configuration for it and define the service API (to be used by the end-user).
 After than other persons can run Worker and Monitor nodes that follow 
-that rules (service API and configuration) on the subnet and get emission.
+that rules (service API and configuration) on the subnet and get emission too.
 
-For running subnet nodes see [here]().
+For running subnet nodes see [here](guide/run-a-subnet-node.md).
 
 Or if you want to create a new Subnet see [here]().
