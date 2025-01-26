@@ -3,8 +3,8 @@
 Main Componenet of JungoAI ecosystem would be:
 - Jungochain
 - Subnet
-    - Worker node
-    - Monitor node
+  - Worker node
+  - Monitor node
 
 ## Jungochain
 
@@ -21,15 +21,14 @@ Here is the Summarize of Jungochain:
 - **Netuid**: Each subnet has a unique Netuid in Jungochain.
 - **UID**: Each node (Worker/Monitor) has a unique UID in that Subnet.
 - **Root Subnet (or Subnet 0)**: Is a specific Subnet that other Subnets are defined here. 
-    In other word Subnet 0 contains Monitors and Subnets (instead of Workers), emission will distribute here
-    between subnets first, then Subnet will distribute it between it's nodes. 
-    You can read more about emissions [here]()
+  In other word Subnet 0 contains Monitors and Subnets (instead of Workers), emission will distribute here
+  between subnets first, then Subnet will distribute it between it's nodes. 
+  You can read more about emissions [here]().
+- **Tempo**: Period of time reward distribute.
 
 ## Subnet
 
-A Subnet is a subnetwork under Jungochain, running an AI or Big Data service.
-
-How Subnet works:
+A Subnet is a subnetwork under Jungochain, running an AI or Big Data service. How Subnet works:
 
 Subnet is made of Worker nodes and Monitor nodes.
 

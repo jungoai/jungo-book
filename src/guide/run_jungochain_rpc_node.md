@@ -61,10 +61,14 @@ Simply run:
 . ./scripts/bootstrap/run_by_docker.sh
 ```
 
-Or if you want this options run:
+It will not expose RPC to external request by default, you need to pass `--rpc` for that. Also there are other options:
 
 ```bash
-. ./scripts/bootstrap/run_by_docker.sh --name your-disired-name --rpc --archive --telemetry-url "wss://telemetry.polkadot.io/submit/ 0"
+. ./scripts/bootstrap/run_by_docker.sh \
+  --name myNodeName \
+  --telemetry-url "wss://telemetry.polkadot.io/submit/ 0" \
+  --rpc \
+  --archive 
 ```
 ```
 # --name <NAME>           # (optional) show your node name in telemetry
