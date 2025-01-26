@@ -1,6 +1,10 @@
 # JungoAI Componenets
 
+JungoAI consisted of this components:
+
+
 Main Componenet of JungoAI ecosystem would be:
+
 - Jungochain
 - Subnet
   - Worker node
@@ -14,37 +18,44 @@ It handle transactions and serve Subnets, store information and metadata of
 Subnet itself and each nodes (worker or monitor), And incentivize them utilizing JUNGO token. 
 You can find out how emission will distribute [here]().
 
-Here is the Summarize of Jungochain:
-
-- **JUNGO**: The native token with decimal of 9.
-- **Wallet**: Both of ECDSA (Ethereum wallet) and Sr25519 (Polkadot wallet) supported.
-- **Netuid**: Each subnet has a unique Netuid in Jungochain.
-- **UID**: Each node (Worker/Monitor) has a unique UID in that Subnet.
-- **Root Subnet (or Subnet 0)**: Is a specific Subnet that other Subnets are defined here. 
-  In other word Subnet 0 contains Monitors and Subnets (instead of Workers), emission will distribute here
-  between subnets first, then Subnet will distribute it between it's nodes. 
-  You can read more about emissions [here]().
-- **Tempo**: Period of time reward distribute.
+To get more details checkout [terminologies](../more/terminologies.md)
 
 ## Subnet
 
-A Subnet is a subnetwork under Jungochain, running an AI or Big Data service. How Subnet works:
+A Subnet is a subnetwork under Jungochain, running an AI or Big Data service.
+
+Everyone can run a Subnet on Jungochain by staking amount of JUNGO token, 
+set configuration parameters for it and define the service API (to be used by the end-user).
+After than other persons can run Worker and Monitor nodes that follow 
+that rules (service API and configuration) on the subnet and get emission too.
+
+*How Subnet works:*
 
 Subnet is made of Worker nodes and Monitor nodes.
 
 ### Worker
 
-The Worker is the node that AI/Big-data service run on.
+Is actual node that run Big Data or AI service and serve end-user
 
 ### Monitor
 
-The Monitor is the node that analyze Workers for distributing reward fair.
-
+A Monitor analyze performance of Workers and send result (scores of Workers) back to the Jungochain. 
+Then Jungochain distribute emission among Workers according to it.
 A Monitor also gets reward according to the average of Monitors result.
-See [emission] section for more details.
+See [emission](../more/emissions.md) section for more details.
 
 Here is a diagram of a Subnet:
 
 <center>
   <img src="../assets/subnet.png" alt="figure subnet" width="70%">
 </center>
+
+And Here is an overview of JungoAI ecosystem:
+
+<center>
+  <img src="../assets/overview.png" alt="figure 1" width="60%">
+</center>
+
+For running subnet nodes see [here](guide/run-a-subnet-node.md).
+
+Or if you want to create a new Subnet see [here]().

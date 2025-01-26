@@ -30,33 +30,14 @@ JungoAI’s goal is to provide a protocol that enables public nodes to participa
 big data solutions for various real-world applications, including indexing and analyzing blockchains,
 collecting and analyzing web data, and more.
 
-# Components:
-
-JungoAI consisted of this components:
-
-- Jungochain: It is the blockchain of JungoAI, utilize JUNGO token and serve Subnets.
-- Subnet: 
-  There are multiple subnetworks (Subnet) each running a Big Data or AI project that serve end-users. 
-  Subnet contained Worker nodes and Monitor nodes. 
-  - Worker node: Is actual node that run Big Data or AI service and serve end-user.
-  - Monitor node: monitor performance of Worker nodes and send result back to the Jungochain. 
-                  Then Jungochain distribute emission among Workers according to it.
+## Problem
 
 <center>
-  <img src="assets/overview.png" alt="figure 1" width="60%">
+  <img src="assets/problem.png" alt="figure problem">
 </center>
 
-# How it works
+## Solution
 
-Jungochain as a blockchain handle transactions and serve Subnets, store information and metadata of 
-Subnet itself and each nodes (worker or monitor), And incentivize them utilizing JUNGO token. 
-You can find out how emission will distribute [here]().
-
-Everyone can run a Subnet on Jungochain by staking a mount of JUNGO token, 
-set some configuration for it and define the service API (to be used by the end-user).
-After than other persons can run Worker and Monitor nodes that follow 
-that rules (service API and configuration) on the subnet and get emission too.
-
-For running subnet nodes see [here](guide/run-a-subnet-node.md).
-
-Or if you want to create a new Subnet see [here]().
+<center>
+  <img src="assets/solution.png" alt="figure solution">
+</center>

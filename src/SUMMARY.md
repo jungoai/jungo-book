@@ -18,7 +18,8 @@
 
 # More
 
-- [Emissions]()
+- [Terminologies](more/terminologies.md)
+- [Emissions](more/emissions.md)
 
 -----------
 
