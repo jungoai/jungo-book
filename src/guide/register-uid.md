@@ -70,3 +70,11 @@ jucli wallet list
 ## Get Token
 
 Currently to get token you can DM Mr.Bakhshandeh at Telegram ([@rbakhshandeh](https://t.me/rbakhshandeh)).
+
+## Register UID
+
+We are showing registering UID on subnet 1001 (echo subnet) on devnet (you can do it on any subnet you want):
+
+```bash
+jucli subnet register --name <your-coldkey> --hotkey <your-hotkey> --netuid 1001 --chain devnet
+```

@@ -53,7 +53,7 @@ Here is a diagram of a Subnet:
 And Here is an overview of JungoAI ecosystem:
 
 <center>
-  <img src="../assets/overview.png" alt="figure 1" width="60%">
+  <img src="../assets/overview.png" alt="figure 1" width="70%">
 </center>
 
 For running subnet nodes see [here](guide/run-a-subnet-node.md).
