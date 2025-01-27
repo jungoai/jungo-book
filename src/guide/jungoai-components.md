@@ -3,7 +3,7 @@
 JungoAI consisted of this components:
 
 
-Main Componenet of JungoAI ecosystem would be:
+Main Components of JungoAI ecosystem would be:
 
 - Jungochain
 - Subnet
@@ -25,7 +25,7 @@ To get more details checkout [terminologies](../more/terminologies.md)
 A Subnet is a subnetwork under Jungochain, running an AI or Big Data service.
 
 Everyone can run a Subnet on Jungochain by staking amount of JUNGO token, 
-set configuration parameters for it and define the service API (to be used by the end-user).
+set configuration parameters for that and define the service API (to be used by the end-user).
 After than other persons can run Worker and Monitor nodes that follow 
 that rules (service API and configuration) on the subnet and get emission too.
 
@@ -35,13 +35,13 @@ Subnet is made of Worker nodes and Monitor nodes.
 
 ### Worker
 
-Is actual node that run Big Data or AI service and serve end-user
+Is actual node that run Big Data or AI service and serve end-user.
 
 ### Monitor
 
 A Monitor analyze performance of Workers and send result (scores of Workers) back to the Jungochain. 
-Then Jungochain distribute emission among Workers according to it.
-A Monitor also gets reward according to the average of Monitors result.
+Then Jungochain distribute reward among Workers according to it.
+A Monitor also gets reward according to the average of Monitor results.
 See [emission](../more/emissions.md) section for more details.
 
 Here is a diagram of a Subnet:

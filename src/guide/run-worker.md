@@ -11,7 +11,11 @@ Install echo-subnet:
 rye install echo-subnet --git https://github.com/jungoai/jungo-echo-subnet.git
 ```
 
-*Note: you can install `rye` by `curl -sSf https://rye.astral.sh/get | bash`*
+<div class="warning">
+Note 
+
+You can install `rye` by running `curl -sSf https://rye.astral.sh/get | bash`.
+</div>
 
 Run echo-monitor:
 
