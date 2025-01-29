@@ -1,16 +1,21 @@
 [Introduction](README.md)
 
-# Guide
+# General Guide
 
-- [JungoAI Components](guide/jungoai-components.md)
-- [Create a Wallet (Coldkey)](guide/create-a-wallet.md)
-- [Create a Hotkey](guide/create-a-hotkey.md)
-- [Run a Subnet node](guide/run-a-subnet-node.md)
-  - [Register UID](guide/register-uid.md)
-  - [Run Worker node](guide/run-worker.md)
-  - [Run Monitor node](guide/run-monitor.md)
-- [Create a Subnet](guide/create-a-subnet.md)
-- [Run Jungochain RPC node](guide/run-jungochain-rpc-node.md)
+- [Add to Metamask](general/add-to-metamask.md)
+- [Add to Talisman](general/add-to-talisman.md)
+
+# Builders Guide
+
+- [JungoAI Components](builders/jungoai-components.md)
+- [Create a Wallet (Coldkey)](builders/create-a-wallet.md)
+- [Create a Hotkey](builders/create-a-hotkey.md)
+- [Run a Subnet node](builders/run-a-subnet-node.md)
+  - [Register UID](builders/register-uid.md)
+  - [Run Worker node](builders/run-worker.md)
+  - [Run Monitor node](builders/run-monitor.md)
+- [Create a Subnet](builders/create-a-subnet.md)
+- [Run Jungochain RPC node](builders/run-jungochain-rpc-node.md)
 - [Use Subnet services as a user]()
 
 # Tools
@@ -22,6 +27,7 @@
 
 - [Terminologies](more/terminologies.md)
 - [Emissions](more/emissions.md)
+- [Links](more/links.md)
 
 -----------
 

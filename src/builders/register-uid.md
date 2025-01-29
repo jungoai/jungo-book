@@ -11,9 +11,9 @@ You should have a `coldkey`. Follow [here](create-a-wallet.md) to create a new o
 You should have `hotkey`. Follow [here](create-a-hotkey.md) to create a new one.
 </div>
 
-## Get Token
+## Get JUNGO Token
 
-Currently you can get token by DM Mr.Bakhshandeh at Telegram ([@rbakhshandeh](https://t.me/rbakhshandeh)).
+Currently you can get token by requesting in our [Telegram Builder group](https://t.me/+I41xetD5BPNlZjVk).
 
 ## Register UID
 

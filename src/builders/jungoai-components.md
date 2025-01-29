@@ -9,6 +9,8 @@ Main Components of JungoAI ecosystem would be:
 - Subnet
   - Worker node
   - Monitor node
+- Base Layer
+- Apps Layer
 
 ## Jungochain
 
@@ -59,3 +61,12 @@ And Here is an overview of JungoAI ecosystem:
 For running subnet nodes see [here](guide/run-a-subnet-node.md).
 
 Or if you want to create a new Subnet see [here]().
+
+## Base Layer VS Apps Layer
+
+We have define two groups of Subnets, Base Layer and Apps Layer, that serve different purpose.
+The Subnets in Base Layer serve Subnets of Apps layer. For example we run Subnet A 
+in Base Layer that run a message queue service so that other Subnets can get service from Subnet A.
+Every services that serve other Subnets will be put in Base Layer. Other Subnets that serve end-users 
+would be in Apps Layer.
+We have categorized this Subnet for clarification and ease of use for Subnet creators.
