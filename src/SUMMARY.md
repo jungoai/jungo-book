@@ -10,7 +10,7 @@
   - [Run Worker node](guide/run-worker.md)
   - [Run Monitor node](guide/run-monitor.md)
 - [Create a Subnet](guide/create-a-subnet.md)
-- [Run Jungochain RPC node](guide/run_jungochain_rpc_node.md)
+- [Run Jungochain RPC node](guide/run-jungochain-rpc-node.md)
 - [Use Subnet services as a user]()
 
 # Tools
