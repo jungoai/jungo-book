@@ -1,6 +1,12 @@
 # Run Monitor node
 
+<div class="warning">
+Pre requirements 
+
 Before continuing make sure you have met [Registering UID](register-uid.md).
+
+You need to have `rye` on your system.<br> You can install it by running `curl -sSf https://rye.astral.sh/get | bash`.
+</div>
 
 To demonstrate how to run a worker node, we are going to do it on subnet 1001 (echo subnet) on
 devnet as an example.
@@ -10,12 +16,6 @@ Install echo-subnet:
 ```
 rye install echo-subnet --git https://github.com/jungoai/jungo-echo-subnet.git
 ```
-
-<div class="warning">
-Note 
-
-You can install `rye` by running `curl -sSf https://rye.astral.sh/get | bash`.
-</div>
 
 Run echo-worker:
 

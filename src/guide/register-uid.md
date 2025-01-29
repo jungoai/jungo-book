@@ -6,9 +6,9 @@ Pre requirements
 You need to have `jucli` (Jungo-CLI) on your system. 
 You can install it from [here](../tools/jungo-cli.md#Installation).
 
-You should have a coldkey. Follow [here](create-a-wallet.md) to create one.
+You should have a `coldkey`. Follow [here](create-a-wallet.md) to create a new one.
 
-You should have hotkey. Follow [here](create-a-hotkey.md) to create one.
+You should have `hotkey`. Follow [here](create-a-hotkey.md) to create a new one.
 </div>
 
 ## Get Token

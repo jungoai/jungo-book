@@ -14,7 +14,7 @@ Main Components of JungoAI ecosystem would be:
 
 Jungochain is the blockchain layer of JungoAI.
 
-It handle transactions and serve Subnets, store information and metadata of 
+It handles transactions and serve Subnets, store information and metadata of 
 Subnet itself and each nodes (worker or monitor), And incentivize them utilizing JUNGO token. 
 You can find out how emission will distribute [here]().
 
@@ -25,9 +25,9 @@ To get more details checkout [terminologies](../more/terminologies.md)
 A Subnet is a subnetwork under Jungochain, running an AI or Big Data service.
 
 Everyone can run a Subnet on Jungochain by staking amount of JUNGO token, 
-set configuration parameters for that and define the service API (to be used by the end-user).
+set configuration parameters and define the service API (to be used by the end-user).
 After than other persons can run Worker and Monitor nodes that follow 
-that rules (service API and configuration) on the subnet and get emission too.
+the rules (service API and configuration) on the subnet and get emission too.
 
 *How Subnet works:*
 

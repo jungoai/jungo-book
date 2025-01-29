@@ -8,11 +8,9 @@ You can install it from [here](../tools/jungo-cli.md#Installation).
 
 </div>
 
-A hotkey is another address that placed under a coldkey. The coldkey is used to hold and transfer tokens. 
-A hotkey (alongside coldkey) is used to register node (worker or monitor).
-Stake and reward distribution also done in the hotkeys.
-The purpose of hotkey is to provide more security, coldkey to be used for transfer tokens, 
-and hotkey to be used in JungoAI ecosystem e.g stake.
+See [here](../more/terminologies.md#hotkey) for Hotkey definition.
+
+Create a new hotkey:
 
 ```bash
 jucli wallet new_hotkey

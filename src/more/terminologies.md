@@ -2,11 +2,7 @@
 
 ### JUNGO
 
-The native token with decimal of 9.
-
-### Wallet
-
-Both of ECDSA (Ethereum wallet) and Sr25519 (Polkadot wallet) supported.
+The JungoAI native token with decimal of 9.
 
 ### Netuid
 
@@ -30,6 +26,19 @@ You can read more about emissions [here]().
 
 Period of time reward distribute.
 
+### Wallet
+
+A Wallet is an address hold funds of JUNGO.
+Both ECDSA (Ethereum wallet) and Sr25519 (Polkadot wallet) addresses are supported.
+
 ### Coldkey
 
+Synonym for Wallet.
+
 ### Hotkey
+
+A hotkey is another address that placed under a coldkey. The coldkey is used to hold and transfer tokens. 
+A hotkey (alongside coldkey) is used to register node (worker or monitor).
+Stake and reward distribution also done in the hotkeys.
+The purpose of hotkey is to provide more security, coldkey to be used for transfer tokens
+and hotkey to be used in JungoAI ecosystem e.g stake.

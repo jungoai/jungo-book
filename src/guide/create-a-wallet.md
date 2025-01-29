@@ -7,9 +7,9 @@ You need to have `jucli` (Jungo-CLI) on your system.
 You can install it from [here](../tools/jungo-cli.md#Installation).
 </div>
 
-Coldkey is a synonym name for Wallet in JungoAI.
+Coldkey is a synonym for Wallet in JungoAI.
 
-Run command below to generate a new wallet:
+Create a new wallet:
 
 ```bash
 jucli wallet new_coldkey
