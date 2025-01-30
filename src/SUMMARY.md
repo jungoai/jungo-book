@@ -1,4 +1,11 @@
-[Introduction](README.md)
+# Introduction
+
+- [What is JungoAI](intro/what-is-jungoai.md)
+  - [Federated AI](intro/federated-ai.md)
+  - [Federated Big Data](intro/federated-bigdata.md)
+  - [Protocol](intro/protocol.md)
+- [Jungo DAO]()
+- [Use Cases](intro/use-cases.md)
 
 # General Guide
 
@@ -16,7 +23,6 @@
   - [Run Monitor node](builders/run-monitor.md)
 - [Create a Subnet](builders/create-a-subnet.md)
 - [Run Jungochain RPC node](builders/run-jungochain-rpc-node.md)
-- [Use Subnet services as a user]()
 
 # Tools
 
