@@ -1,7 +1,12 @@
 # What is JungoAI
 
+JungoAI is a public, decentralized platform designed to enable 
+the development of **Federated AI**, **Big Data**, and DeSci solutions. 
+It allows researchers, developers, and innovators to collaborate on 
+AI models and data-driven projects without relying on centralized companies.
 
-JungoAI is a public **Federated AI** and **Big Data** network
-where nodes and users collaborate to provide innovative
-AI and Big Data solutions. Our vision is to build a **global
-Big Data and AI layer for the internet**.
+By leveraging blockchain and decentralized governance, JungoAI ensures 
+data security, privacy, and open access for the global community. 
+Experts can contribute their knowledge, computation power, or research data, 
+earning `JUNGO` tokens as rewards. Governed by **Jungo DAO**, the network maintains a 
+transparent and expert-led ecosystem that fosters collaboration and innovation.

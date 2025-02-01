@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="1162"
-   height="1167.38"
+   height="1500"
    version="1.1"
    id="svg605"
    sodipodi:docname="protocol.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="protocol.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -978,8 +981,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.47730828"
-     inkscape:cx="280.74099"
-     inkscape:cy="603.38362"
+     inkscape:cx="737.46887"
+     inkscape:cy="838.03281"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -1002,7 +1005,7 @@
        y="996.12146" /></text>
   <g
      id="g6587"
-     transform="translate(0.75670976,-2)">
+     transform="translate(-1219.334,-2)">
     <rect
        style="fill:#373737;fill-opacity:1;stroke:none;stroke-width:4.20981;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3323"
@@ -1028,7 +1031,7 @@
      id="rect1285"
      width="1094.9095"
      height="364.96985"
-     x="33.480392"
+     x="-1186.6102"
      y="762.92902"
      ry="25.456051" />
   <rect
@@ -1036,22 +1039,22 @@
      id="rect6450"
      width="390.75375"
      height="43.750526"
-     x="385.56647"
+     x="-834.52417"
      y="1107.0487"
      ry="21.875263" />
   <text
      xml:space="preserve"
      style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     x="424.27145"
+     x="-795.81921"
      y="1137.1479"
      id="text6454"><tspan
        sodipodi:role="line"
        id="tspan6452"
-       x="424.27145"
+       x="-795.81921"
        y="1137.1479">BLOCKCHAIN LAYER</tspan></text>
   <g
      id="g6593"
-     transform="translate(6.9610097,2)">
+     transform="translate(-1213.1297,2)">
     <rect
        style="fill:none;fill-opacity:0;stroke:#373737;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1942"
@@ -1079,7 +1082,7 @@
   </g>
   <g
      id="g6603"
-     transform="translate(294.38008,2)">
+     transform="translate(-925.71058,2)">
     <rect
        style="fill:none;fill-opacity:0;stroke:#373737;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6595"
@@ -1108,15 +1111,16 @@
   <text
      xml:space="preserve"
      style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     x="641.84229"
+     x="-578.24835"
      y="1005.454"
      id="text6607"><tspan
        sodipodi:role="line"
        id="tspan6605"
-       x="641.84229"
+       x="-578.24835"
        y="1005.454">...</tspan></text>
   <g
-     id="g6910">
+     id="g6910"
+     transform="translate(-1220.0907)">
     <rect
        style="fill:none;fill-opacity:0;stroke:#e81347;stroke-width:3.09208;stroke-dasharray:18.5526, 18.5526;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4063"
@@ -1269,16 +1273,16 @@
     </g>
   </g>
   <rect
-     style="fill:none;fill-opacity:0;stroke:#e81347;stroke-width:3.09208;stroke-dasharray:18.5526, 18.5526;stroke-dashoffset:0;stroke-opacity:1"
+     style="fill:none;fill-opacity:0;stroke:#e81347;stroke-width:3.092;stroke-dasharray:18.5521, 18.5521;stroke-dashoffset:0;stroke-opacity:1"
      id="rect6912"
      width="510.75012"
      height="298.11017"
-     x="617.61346"
+     x="-602.47717"
      y="378.02457"
      ry="29.322248" />
   <g
      id="g6932"
-     transform="translate(610.04892,-9.5058495)">
+     transform="translate(-610.04174,-9.5058495)">
     <g
        id="g6922"
        transform="translate(0.66467011,-6)">
@@ -1334,88 +1338,85 @@
   <text
      xml:space="preserve"
      style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     x="1041.113"
+     x="-178.97763"
      y="533.15247"
      id="text6936"><tspan
        sodipodi:role="line"
        id="tspan6934"
-       x="1041.113"
+       x="-178.97763"
        y="533.15247">...</tspan></text>
   <g
-     id="g6956"
-     transform="translate(799.09541,-9.5058495)">
-    <g
-       id="g6946"
-       transform="translate(0.66467011,-6)">
-      <rect
-         style="fill:none;fill-opacity:0;stroke:#373737;stroke-width:2.64883;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect6938"
-         width="152.01604"
-         height="91.515228"
-         x="65.254898"
-         y="555.15173"
-         ry="11.50815" />
-      <text
-         xml:space="preserve"
-         style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#373737;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="g6946"
+     transform="translate(-420.33058,-15.50585)">
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#373737;stroke-width:2.64883;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6938"
+       width="152.01604"
+       height="91.515228"
+       x="65.254898"
+       y="555.15173"
+       ry="11.50815" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#373737;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="81.790962"
+       y="592.33337"
+       id="text6944"><tspan
+         sodipodi:role="line"
          x="81.790962"
          y="592.33337"
-         id="text6944"><tspan
-           sodipodi:role="line"
-           x="81.790962"
-           y="592.33337"
-           style="font-size:32px;fill:#373737;fill-opacity:1"
-           id="tspan6940">Subnet </tspan><tspan
-           sodipodi:role="line"
-           x="81.790962"
-           y="632.33337"
-           style="font-size:32px;fill:#373737;fill-opacity:1"
-           id="tspan6942">K</tspan></text>
-    </g>
-    <g
-       id="g6954"
-       transform="translate(-0.66460693,-10)">
-      <rect
-         style="fill:#373737;fill-opacity:1;stroke:none;stroke-width:2.7102;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect6948"
-         width="154.66499"
-         height="94.164001"
-         x="65.259697"
-         y="441.2037"
-         ry="11.841236" />
-      <text
-         xml:space="preserve"
-         style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="font-size:32px;fill:#373737;fill-opacity:1"
+         id="tspan6940">Subnet </tspan><tspan
+         sodipodi:role="line"
+         x="81.790962"
+         y="632.33337"
+         style="font-size:32px;fill:#373737;fill-opacity:1"
+         id="tspan6942">K</tspan></text>
+  </g>
+  <g
+     id="g6954"
+     transform="translate(-421.65986,-19.505849)">
+    <rect
+       style="fill:#373737;fill-opacity:1;stroke:none;stroke-width:2.7102;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6948"
+       width="154.66499"
+       height="94.164001"
+       x="65.259697"
+       y="441.2037"
+       ry="11.841236" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="114.32021"
+       y="499.48572"
+       id="text6952"><tspan
+         sodipodi:role="line"
          x="114.32021"
          y="499.48572"
-         id="text6952"><tspan
-           sodipodi:role="line"
-           x="114.32021"
-           y="499.48572"
-           style="font-size:32px;fill:#ffffff;fill-opacity:1"
-           id="tspan6950">API</tspan></text>
-    </g>
+         style="font-size:32px;fill:#ffffff;fill-opacity:1"
+         id="tspan6950">API</tspan></text>
   </g>
   <rect
      style="fill:#e71347;fill-opacity:1;stroke:none;stroke-width:0.773866;stroke-dasharray:4.64319, 4.64319;stroke-dashoffset:0;stroke-opacity:1"
      id="rect6958"
      width="341.86893"
      height="43.750526"
-     x="702.05658"
+     x="-518.03406"
      y="655.27124"
      ry="21.875263" />
   <text
      xml:space="preserve"
      style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     x="726.78314"
+     x="-493.30753"
      y="685.91315"
      id="text6962"><tspan
        sodipodi:role="line"
        id="tspan6960"
-       x="726.78314"
+       x="-493.30753"
        y="685.91315">APPS BASE LAYER</tspan></text>
   <g
-     id="g7318">
+     id="g7318"
+     transform="translate(-1220.0907)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#373737;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
        d="m 288.98975,699.49747 -0.0919,99.5249"
@@ -1426,7 +1427,7 @@
   </g>
   <g
      id="g7330"
-     transform="translate(584.08701)">
+     transform="translate(-636.00365)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#373737;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
        d="m 288.98975,699.49747 -0.0919,99.5249"
@@ -1437,7 +1438,7 @@
   </g>
   <g
      id="g7342"
-     transform="rotate(-90,297.24686,465.95752)">
+     transform="rotate(-90,-312.79847,1076.0029)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#373737;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
        d="m 292.27092,715.73841 -0.0919,114.13972"
@@ -1447,7 +1448,8 @@
        sodipodi:nodetypes="cc" />
   </g>
   <g
-     id="g7695">
+     id="g7695"
+     transform="translate(-1220.0907)">
     <circle
        style="fill:none;fill-opacity:1;stroke:#373737;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path7570"
@@ -1467,7 +1469,7 @@
   </g>
   <g
      id="g7655"
-     transform="translate(-102.50181,-391.36813)">
+     transform="translate(-1322.5925,-391.36813)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#373737;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
        d="m 288.98975,648.17923 -0.0919,150.84314"
@@ -1483,20 +1485,22 @@
      y="1070.2432"
      id="text7665"><tspan
        sodipodi:role="line"
-       id="tspan7663" /></text>
+       id="tspan7663"
+       x="646.92206"
+       y="1070.2432" /></text>
   <text
      xml:space="preserve"
      style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     x="543.16125"
+     x="-676.92938"
      y="164.67397"
      id="text7675"><tspan
        sodipodi:role="line"
        id="tspan7673"
-       x="543.16125"
+       x="-676.92938"
        y="164.67397">...</tspan></text>
   <g
      id="g7709"
-     transform="translate(235.63966)">
+     transform="translate(-984.451)">
     <circle
        style="fill:none;fill-opacity:1;stroke:#373737;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle7703"
@@ -1513,5 +1517,524 @@
          id="tspan7705"
          x="107.47424"
          y="173.85797">End User</tspan></text>
+  </g>
+  <g
+     id="g1442"
+     transform="translate(-1556.1467,352.28477)">
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#373737;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect677"
+       width="355.53281"
+       height="266.92023"
+       x="92.892502"
+       y="808.27423"
+       ry="16.883228"
+       rx="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#373737;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="111.27263"
+       y="854.862"
+       id="text683"><tspan
+         sodipodi:role="line"
+         x="111.27263"
+         y="854.862"
+         style="font-size:32px;fill:#373737;fill-opacity:1"
+         id="tspan681">Jungochain node</tspan></text>
+  </g>
+  <g
+     id="g1431"
+     transform="translate(-159.20987,-111.35034)">
+    <rect
+       style="fill:#373737;fill-opacity:1;stroke:none;stroke-width:2.7102;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1425"
+       width="154.66499"
+       height="94.164001"
+       x="-479.40439"
+       y="1361.7677"
+       ry="11.841236" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-430.34387"
+       y="1420.0497"
+       id="text1429"><tspan
+         sodipodi:role="line"
+         x="-430.34387"
+         y="1420.0497"
+         style="font-size:32px;fill:#ffffff;fill-opacity:1"
+         id="tspan1427">API</tspan></text>
+  </g>
+  <g
+     id="g7308"
+     transform="translate(0,-4.2386633)">
+    <rect
+       style="opacity:0.400638;fill:#4fe8b1;fill-opacity:1;stroke:none;stroke-width:2.77127;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1775"
+       width="1092.1387"
+       height="312.22873"
+       x="34.930664"
+       y="335.42029"
+       ry="0" />
+    <rect
+       style="opacity:0.651532;fill:#4fe8b1;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:18, 18;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1783"
+       width="878.57281"
+       height="312.51328"
+       x="248.6386"
+       y="745.41351"
+       ry="0" />
+    <rect
+       style="fill:#373737;fill-opacity:1;stroke:none;stroke-width:5.03967;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6587"
+       width="201.78035"
+       height="249.57329"
+       x="285.25592"
+       y="776.88361"
+       ry="16.683643" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.3334px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="306.50543"
+       y="891.4035"
+       id="text1841"><tspan
+         sodipodi:role="line"
+         x="306.50543"
+         y="891.4035"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3334px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke-width:0"
+         id="tspan1839">Storage</tspan><tspan
+         sodipodi:role="line"
+         x="306.50543"
+         y="938.07025"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font Italic';fill:#ffffff;fill-opacity:1;stroke-width:0"
+         id="tspan3489">Subnet</tspan></text>
+    <rect
+       style="fill:#373737;fill-opacity:1;stroke:none;stroke-width:5.03967;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1851"
+       width="201.78035"
+       height="249.57329"
+       x="754.43597"
+       y="776.88361"
+       ry="16.683643" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.3334px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="787.1554"
+       y="891.14215"
+       id="text1855"><tspan
+         sodipodi:role="line"
+         x="787.1554"
+         y="891.14215"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3334px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke-width:0"
+         id="tspan1853">FHE DB</tspan><tspan
+         sodipodi:role="line"
+         x="787.1554"
+         y="937.8089"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font Italic';fill:#ffffff;fill-opacity:1;stroke-width:0"
+         id="tspan3493">Subnet</tspan></text>
+    <rect
+       style="fill:#373737;fill-opacity:1;stroke:none;stroke-width:5.03967;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6567"
+       width="201.78035"
+       height="249.57329"
+       x="519.33154"
+       y="776.88361"
+       ry="16.683643" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.3334px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="554.84882"
+       y="891.14215"
+       id="text1869"><tspan
+         sodipodi:role="line"
+         x="554.84882"
+         y="891.14215"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3334px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke-width:0"
+         id="tspan1867">FE AI</tspan><tspan
+         sodipodi:role="line"
+         x="554.84882"
+         y="937.8089"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font Italic';fill:#ffffff;fill-opacity:1;stroke-width:0"
+         id="tspan3491">Subnet</tspan></text>
+    <rect
+       style="fill:#4fe8b1;fill-opacity:1;stroke:none;stroke-width:2.78708;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect631"
+       width="1094.9095"
+       height="315"
+       x="33.545227"
+       y="1137.7146"
+       ry="0" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#373737;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1634"
+       width="1020.2668"
+       height="80.35611"
+       x="70.866608"
+       y="1177.2397"
+       ry="17.736843" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#373737;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="420.74692"
+       y="1227.0125"
+       id="text1638"><tspan
+         sodipodi:role="line"
+         id="tspan1636"
+         x="420.74692"
+         y="1227.0125"
+         style="font-size:37.3333px;fill:#373737;fill-opacity:1">Jungochain RPC</tspan></text>
+    <rect
+       style="fill:#373737;fill-opacity:1;stroke:none;stroke-width:3.65794;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3505"
+       width="205.839"
+       height="128.88971"
+       x="68.866608"
+       y="1293.4658"
+       ry="17.547825" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="148.7888"
+       y="1370.9773"
+       id="text3509"><tspan
+         sodipodi:role="line"
+         x="148.7888"
+         y="1370.9773"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1"
+         id="tspan3507">DB</tspan></text>
+    <rect
+       style="fill:#373737;fill-opacity:1;stroke:none;stroke-width:3.65794;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5181"
+       width="205.839"
+       height="128.88971"
+       x="313.76477"
+       y="1293.4658"
+       ry="17.305576" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="382.16965"
+       y="1370.9773"
+       id="text5185"><tspan
+         sodipodi:role="line"
+         x="382.16965"
+         y="1370.9773"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1"
+         id="tspan5183">DAO</tspan></text>
+    <rect
+       style="fill:#373737;fill-opacity:1;stroke:none;stroke-width:3.65794;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5195"
+       width="205.839"
+       height="128.88971"
+       x="553.6944"
+       y="1293.4658"
+       ry="18.372015" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="621.44592"
+       y="1370.9773"
+       id="text5199"><tspan
+         sodipodi:role="line"
+         x="621.44592"
+         y="1370.9773"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1"
+         id="tspan5197">EVM</tspan></text>
+    <rect
+       style="fill:#373737;fill-opacity:1;stroke:none;stroke-width:3.65794;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5349"
+       width="205.839"
+       height="128.88971"
+       x="794.83783"
+       y="1293.4658"
+       ry="16.080763" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="828.5788"
+       y="1370.9773"
+       id="text5353"><tspan
+         sodipodi:role="line"
+         x="828.5788"
+         y="1370.9773"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1"
+         id="tspan5351">$JUNGO</tspan></text>
+    <g
+       id="g5023"
+       transform="translate(-171.92599,52.91442)">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#373737;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+         d="m 288.98975,594.91832 2.46148,514.94138"
+         id="path5021"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g5082"
+       transform="translate(372.33001,457.58442)">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#373737;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+         d="m 36.61049,599.40941 -0.0919,105.57416"
+         id="path5080"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g5628"
+       transform="translate(0,323.9802)">
+      <rect
+         style="fill:#e71347;fill-opacity:1;stroke:none;stroke-width:0.629343;stroke-dasharray:3.77605, 3.77605;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5491"
+         width="314.20959"
+         height="31.482296"
+         x="423.8952"
+         y="1119.054"
+         ry="15.741148" />
+      <text
+         xml:space="preserve"
+         style="font-size:26.6667px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="450.51996"
+         y="1144.1284"
+         id="text5495"><tspan
+           sodipodi:role="line"
+           id="tspan5493"
+           x="450.51996"
+           y="1144.1284"
+           style="font-size:26.6667px">BLOCKCHAIN LAYER</tspan></text>
+    </g>
+    <rect
+       style="fill:#e71347;fill-opacity:1;stroke:none;stroke-width:0.507966;stroke-dasharray:3.04779, 3.04779;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5636"
+       width="204.69829"
+       height="31.482296"
+       x="585.57587"
+       y="1049.0011"
+       ry="15.741148" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.6667px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="606.40497"
+       y="1074.0756"
+       id="text5640"><tspan
+         sodipodi:role="line"
+         id="tspan5638"
+         x="606.40497"
+         y="1074.0756"
+         style="font-size:26.6667px">BASE LAYER</tspan></text>
+    <g
+       id="g5661"
+       transform="translate(372.33001,29.74724)">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#373737;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+         d="m 36.61049,618.78073 -0.0919,86.20284"
+         id="path5659"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g6679"
+       transform="translate(4,317.9802)">
+      <rect
+         style="fill:#373737;fill-opacity:1;stroke:none;stroke-width:5.03967;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6601"
+         width="201.78035"
+         height="249.57329"
+         x="67.648026"
+         y="48.767834"
+         ry="16.683643" />
+      <text
+         xml:space="preserve"
+         style="font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="77.855675"
+         y="139.95451"
+         id="text5702"><tspan
+           sodipodi:role="line"
+           x="77.855675"
+           y="139.95451"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke-width:0"
+           id="tspan5700">RPC</tspan><tspan
+           sodipodi:role="line"
+           x="77.855675"
+           y="186.62114"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke-width:0"
+           id="tspan5854">Provider</tspan><tspan
+           sodipodi:role="line"
+           x="77.855675"
+           y="233.28777"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font Italic';fill:#ffffff;fill-opacity:1;stroke-width:0"
+           id="tspan5856">Subnet</tspan></text>
+    </g>
+    <g
+       id="g6691"
+       transform="translate(2,317.9802)">
+      <rect
+         style="fill:#373737;fill-opacity:1;stroke:none;stroke-width:5.03967;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6627"
+         width="201.78035"
+         height="249.57329"
+         x="303.66678"
+         y="48.767834"
+         ry="16.683643" />
+      <text
+         xml:space="preserve"
+         style="font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="325.2984"
+         y="163.02649"
+         id="text5740"><tspan
+           sodipodi:role="line"
+           x="325.2984"
+           y="163.02649"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke-width:0"
+           id="tspan5738">Indexer</tspan><tspan
+           sodipodi:role="line"
+           x="325.2984"
+           y="209.69312"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font Italic';fill:#ffffff;fill-opacity:1;stroke-width:0"
+           id="tspan5860">Subnet</tspan></text>
+    </g>
+    <g
+       id="g6704"
+       transform="translate(4,317.9802)">
+      <rect
+         style="fill:#373737;fill-opacity:1;stroke:none;stroke-width:5.03967;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6660"
+         width="201.78035"
+         height="249.57329"
+         x="532.06543"
+         y="48.767834"
+         ry="16.683643" />
+      <text
+         xml:space="preserve"
+         style="font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="565.12103"
+         y="139.95451"
+         id="text5868"><tspan
+           sodipodi:role="line"
+           x="565.12103"
+           y="139.95451"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke-width:0"
+           id="tspan5864">Server</tspan><tspan
+           sodipodi:role="line"
+           x="565.12103"
+           y="186.62114"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke-width:0"
+           id="tspan6641">Less</tspan><tspan
+           sodipodi:role="line"
+           x="565.12103"
+           y="233.28777"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font Italic';fill:#ffffff;fill-opacity:1;stroke-width:0"
+           id="tspan5866">Subnet</tspan></text>
+    </g>
+    <g
+       id="g5893"
+       transform="translate(0,317.9802)">
+      <rect
+         style="fill:#e71347;fill-opacity:1;stroke:none;stroke-width:0.507966;stroke-dasharray:3.04779, 3.04779;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5878"
+         width="204.69829"
+         height="31.482296"
+         x="478.65085"
+         y="317.79459"
+         ry="15.741148" />
+      <text
+         xml:space="preserve"
+         style="font-size:26.6667px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="500.03995"
+         y="342.86902"
+         id="text5882"><tspan
+           sodipodi:role="line"
+           id="tspan5880"
+           x="500.03995"
+           y="342.86902"
+           style="font-size:26.6667px">APPS LAYER</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="789.24493"
+       y="493.32666"
+       id="text5903"><tspan
+         sodipodi:role="line"
+         id="tspan5901"
+         x="789.24493"
+         y="493.32666">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="1000.1349"
+       y="903.46222"
+       id="text5913"><tspan
+         sodipodi:role="line"
+         id="tspan5911"
+         x="1000.1349"
+         y="903.46222">...</tspan></text>
+    <g
+       id="g7145"
+       transform="translate(-135.46664,-475.61168)">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#373737;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+         d="m 288.98975,699.19775 -0.0919,99.82462"
+         id="path7143"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g7213"
+       transform="translate(0,-427.61939)">
+      <g
+         id="g7141"
+         transform="translate(-32.964845,393.6619)">
+        <circle
+           style="fill:none;fill-opacity:1;stroke:#373737;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle7135"
+           cx="186.40219"
+           cy="162.88197"
+           r="93.963608" />
+        <text
+           xml:space="preserve"
+           style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#373737;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           x="107.47424"
+           y="173.85797"
+           id="text7139"><tspan
+             sodipodi:role="line"
+             id="tspan7137"
+             x="107.47424"
+             y="173.85797">End User</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="510.1965"
+         y="558.33588"
+         id="text7149"><tspan
+           sodipodi:role="line"
+           id="tspan7147"
+           x="510.1965"
+           y="558.33588">...</tspan></text>
+      <g
+         id="g7157"
+         transform="translate(202.67486,393.6619)">
+        <circle
+           style="fill:none;fill-opacity:1;stroke:#373737;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle7151"
+           cx="186.40219"
+           cy="162.88197"
+           r="93.963608" />
+        <text
+           xml:space="preserve"
+           style="font-size:32px;font-family:'SpaceMono Nerd Font';-inkscape-font-specification:'SpaceMono Nerd Font';fill:#373737;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           x="107.47424"
+           y="173.85797"
+           id="text7155"><tspan
+             sodipodi:role="line"
+             id="tspan7153"
+             x="107.47424"
+             y="173.85797">End User</tspan></text>
+      </g>
+    </g>
   </g>
 </svg>

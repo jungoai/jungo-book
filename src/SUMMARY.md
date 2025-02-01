@@ -3,9 +3,9 @@
 - [What is JungoAI](intro/what-is-jungoai.md)
   - [Federated AI](intro/federated-ai.md)
   - [Federated Big Data](intro/federated-bigdata.md)
+  - [Jungo DAO](intro/jungo-dao.md)
   - [Protocol](intro/protocol.md)
-- [Jungo DAO]()
-- [Use Cases](intro/use-cases.md)
+  - [Use Cases](intro/use-cases.md)
 
 # General Guide
 
@@ -14,7 +14,6 @@
 
 # Builders Guide
 
-- [JungoAI Components](builders/jungoai-components.md)
 - [Create a Wallet (Coldkey)](builders/create-a-wallet.md)
 - [Create a Hotkey](builders/create-a-hotkey.md)
 - [Run a Subnet node](builders/run-a-subnet-node.md)
