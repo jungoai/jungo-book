@@ -1,7 +1,7 @@
 # Use Cases
 
-- **AI & Big Data Layer for Blockchains:**
-  - RPC Providers
+- [**AI & Big Data Layer for Blockchains:**](./use-cases/big-data-layer.md)
+  - P2P & Decentralized RPCs
   - Indexing Protocols 
   - Lambda and Serverless Services
   - AI x Crypto Integration

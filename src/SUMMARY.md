@@ -6,6 +6,7 @@
   - [Jungo DAO](intro/jungo-dao.md)
   - [Protocol](intro/protocol.md)
   - [Use Cases](intro/use-cases.md)
+    - [Big Data Layer](intro/use-cases/big-data-layer.md)
 
 # General Guide
 
