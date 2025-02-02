@@ -47,15 +47,15 @@ databases, communication channels, job queues, and federated big data capabiliti
 Jungo Data3 runs different types of nodes that collaborate to provide a robust 
 blockchain big data layer:
 
-- RPC Nodes – Provide P2P and decentralized RPC services, eliminating 
+- **RPC Nodes** – Provide P2P and decentralized RPC services, eliminating 
   single points of failure in blockchain RPCs.
-- Blockchain Indexer Nodes – Extract data from RPC nodes and index blockchain transactions, 
+- **Blockchain Indexer Nodes** – Extract data from RPC nodes and index blockchain transactions, 
   smart contract events, and more, making them searchable.
-- DApp Indexer Nodes – Allow projects to build and query custom databases tailored to 
+- **DApp Indexer Nodes** – Allow projects to build and query custom databases tailored to 
   their DApp and protocol needs.
-- Multichain Indexer Nodes – Enable multichain DApps to aggregate and analyze data from 
+- **Multichain Indexer Nodes** – Enable multichain DApps to aggregate and analyze data from 
   multiple blockchains.
-- Web3 Lambda Services & Pipelines – Combine on-chain and real-world data, allowing DApps to 
+- **Web3 Lambda Services & Pipelines** – Combine on-chain and real-world data, allowing DApps to 
   build custom databases and microservices without needing separate infrastructure.
 
 ## Conclusion
