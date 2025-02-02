@@ -1,12 +1,12 @@
 # Introduction
 
-- [What is JungoAI](intro/what-is-jungoai.md)
-  - [Federated AI](intro/federated-ai.md)
-  - [Federated Big Data](intro/federated-bigdata.md)
-  - [Jungo DAO](intro/jungo-dao.md)
-  - [Protocol](intro/protocol.md)
-  - [Use Cases](intro/use-cases.md)
-    - [Big Data Layer](intro/use-cases/big-data-layer.md)
+- [What is JungoAI?](intro/what-is-jungoai.md)
+- [Federated AI](intro/federated-ai.md)
+- [Federated Big Data](intro/federated-bigdata.md)
+- [Jungo DAO](intro/jungo-dao.md)
+- [Protocol](intro/protocol.md)
+- [Use Cases](intro/use-cases.md)
+  - [Web3 Big Data Layer](intro/use-cases/big-data-layer.md)
 
 # General Guide
 
