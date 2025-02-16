@@ -26,7 +26,7 @@ echo-worker \
   --wallet.name   <your-coldkey>        \
   --wallet.hotkey <your-hotkey>         \
   --netuid        1001                  \
-  --chain_endpoint wss://devnet-rpc.jungoai.xyz \
+  --chain         wss://devnet-rpc.jungoai.xyz \
   --logging.debug
 ```
 
