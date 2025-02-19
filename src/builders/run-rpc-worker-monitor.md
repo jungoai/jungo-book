@@ -38,8 +38,7 @@ E.g:
 ```json
 {
   "providers": [
-    "https://eth-mainnet.public.blastapi.io",
-    "https://eth.llamarpc.com",
+    "http://127.0.0.1:8888"
   ]
 }
 ```
