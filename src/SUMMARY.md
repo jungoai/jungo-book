@@ -23,6 +23,8 @@
   - [Run Monitor node](builders/run-monitor.md)
 - [Create a Subnet](builders/create-a-subnet.md)
 - [Run Jungochain RPC node](builders/run-jungochain-rpc-node.md)
+- [RPC Subnet](builders/rpc-subnet.md)
+  - [Run an RPC Worker/Monitor](builders/run-rpc-worker-monitor.md)
 
 # Tools
 

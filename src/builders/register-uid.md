@@ -13,7 +13,7 @@ You should have `hotkey`. Follow [here](create-a-hotkey.md) to create a new one.
 
 ## Get JUNGO Token
 
-Currently you can get token by requesting in our [Telegram Builder group](https://t.me/+I41xetD5BPNlZjVk).
+Currently you can get token by requesting in our [Telegram group](https://t.me/+I41xetD5BPNlZjVk).
 
 ## Register UID
 

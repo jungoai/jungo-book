@@ -11,10 +11,10 @@ You need to have `rye` on your system.<br> You can install it by running `curl -
 To demonstrate how to run a worker node, we are going to do it on subnet 1001 (echo subnet) on
 devnet as an example.
 
-Install echo-subnet:
+Install/Update echo-subnet:
 
 ```
-rye install echo-subnet --git https://github.com/jungoai/jungo-echo-subnet.git
+rye tools install -f echo-subnet --git https://github.com/jungoai/jungo-echo-subnet.git
 ```
 
 Run echo-worker:
